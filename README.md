@@ -89,7 +89,7 @@ APIs
 
 <!-- LIVE DEMO -->
 
-## 🚀 Live Demo <a name="live-demo"></a>
+## 🚀 Live Demo <a name="[live-demo](https://space-travelers-hub-2cyz.onrender.com)"></a>
 
 - [React Redux Group Project](https://react-redux-group-project.onrender.com/)
 
